@@ -19,8 +19,9 @@
 9. Subscribe to my [twitch](https://www.twitch.tv/patrickcoding) channel, we will be developing this UI together on April 27th at 10AM - 2PM (Pacific Time)
 
 ## What is the purpose of this repo?
-This repo already got the styles we will be using at the project! Besides that, it has a configuration of best practices within the code from ESLint!
+This repo already got the styles and images we will be using at the project! Besides that, it has a configuration of best practices within the code from ESLint!
 
 ## Special thanks!
 * [Flaticons](https://www.flaticon.com/)
 * [Dropbox](https://dropbox.com)
+* [Unsplash](http://unsplash.com)

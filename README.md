@@ -21,8 +21,9 @@
 9. Inscreva-se no meu canal do [twitch](https://www.twitch.tv/patrickcoding), vamos desenvolver a UI juntos dia 27 das 14h as 18h (GMT-3)
 
 ## Para que serve esse repositório?
-Esse repositório já tem os estilos que vamos usar no projeto! Além disso, temos uma configuração de boas práticas de código a partir do ESLint!
+Esse repositório já tem os estilos e images que vamos usar no projeto! Além disso, temos uma configuração de boas práticas de código a partir do ESLint!
 
 ## Muito obrigado!
 * [Flaticons](https://www.flaticon.com/)
 * [Dropbox](https://dropbox.com)
+* [Unsplash](http://unsplash.com)
