@@ -3,7 +3,7 @@
 
 ![Uber Eats clone with React!](docs/README.jpg)
 
-## Configuração
+## Setup
 1. Install [git](https://git-scm.com/downloads)
 2. Install [node.js](https://nodejs.org/en/)
 3. Install [yarn](https://yarnpkg.com/lang/en/docs/install/)
