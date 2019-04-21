@@ -1,3 +1,7 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -22,11 +26,11 @@ code {
   margin: 0 auto;
 }
 
+/* Header */
 .header{
   height: 74px;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: center;
   background-color: #fff;
 }
@@ -38,7 +42,16 @@ code {
   justify-content: space-between;
 }
 
-.header-user{
+/* Header right */
+.header-right{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header-user,
+.header-cart{
   height: 50px;
   width: 50px;
   border-radius: 50%;
@@ -48,33 +61,78 @@ code {
   align-items: center;
   justify-content: center;
   box-shadow: inset 0px 0px 10px rgba(0,0,0,.2);
+  margin-right: 10px;
 }
 
-.header-left{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
+.header-user img,
+.header-cart img{
+  height: 25px;
 }
 
-.header-user img{
-  height: 30px;
-}
-
-/* this will be another component */
-.place-list{
+/* Places */
+.places{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   grid-gap: 30px;
 }
 
-.place-item-image{
+/* Place */
+.place {
+  text-decoration: none;
+}
+
+.place div{
   height: 200px;
   width: 100%;
   background-size: cover;
+  margin-bottom: 10px;
+  transform: translateY(0);
+  transition: transform 0.3s ease-out 0s;
+  border-radius: 4px;
 }
 
-.place-item-title,
-.place-item-subtitle{
-  display: block;
+.place:hover div{
+  transform: translateY(-4px);
+}
+
+.place h3{
+  font-size: 16px;
+  color: #262626;
+}
+
+.place h4{
+  margin-top: 5px;
+  font-size: 14px;
+  color: #757575;
+}
+
+/* Search */
+.search {
+  position: relative;
+  width: 100%;
+  margin: 10px 0 30px;
+  border-bottom: 1px solid gray;
+  height: 50px;
+}
+
+.search img{
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  height: 25px;
+}
+
+.search input{
+  -webkit-appearance: none;
+  height: inherit;
+  background: transparent;
+  border: none;
+  padding-left: 40px;
+  font-size: 1.2em;
+  color: #727272;
+  width: 100%;
+}
+
+.search input:focus{
+  outline: none;
 }
