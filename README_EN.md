@@ -20,3 +20,7 @@
 
 ## What is the purpose of this repo?
 This repo already got the styles we will be using at the project! Besides that, it has a configuration of best practices within the code from ESLint!
+
+## Special thanks!
+* [Flaticons](https://www.flaticon.com/)
+* [Dropbox](https://dropbox.com)
