@@ -6,9 +6,75 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #efefef;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.container{
+  width: 1200px;
+  max-width: 100%;
+  padding: 0 15px;
+  display: block;
+  margin: 0 auto;
+}
+
+.header{
+  height: 74px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+}
+
+.header .container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-user{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid #efefef;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0px 0px 10px rgba(0,0,0,.2);
+}
+
+.header-left{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header-user img{
+  height: 30px;
+}
+
+/* this will be another component */
+.place-list{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  grid-gap: 30px;
+}
+
+.place-item-image{
+  height: 200px;
+  width: 100%;
+  background-size: cover;
+}
+
+.place-item-title,
+.place-item-subtitle{
+  display: block;
 }
