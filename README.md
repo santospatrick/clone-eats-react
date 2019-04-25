@@ -24,6 +24,6 @@
 Esse repositório já tem os estilos e imagens que vamos usar no projeto! Além disso, temos uma configuração de boas práticas de código a partir do ESLint!
 
 ## Muito obrigado!
-* [Flaticons](https://www.flaticon.com/)
+* [Flaticon](https://www.flaticon.com/)
 * [Dropbox](https://dropbox.com)
 * [Unsplash](http://unsplash.com)

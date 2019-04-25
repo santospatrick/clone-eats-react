@@ -22,6 +22,6 @@
 This repo already got the styles and images we will be using at the project! Besides that, it has a configuration of best practices within the code from ESLint!
 
 ## Special thanks!
-* [Flaticons](https://www.flaticon.com/)
+* [Flaticon](https://www.flaticon.com/)
 * [Dropbox](https://dropbox.com)
 * [Unsplash](http://unsplash.com)
