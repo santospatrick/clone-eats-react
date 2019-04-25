@@ -74,6 +74,7 @@ code {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   grid-gap: 30px;
+  margin-bottom: 30px;
 }
 
 /* Place */
