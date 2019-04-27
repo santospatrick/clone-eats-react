@@ -3,7 +3,8 @@
 
 ![Uber Eats clone com React!](docs/README.jpg)
 
-[English Version](README_EN.md)
+* [Demonstração do produto final](https://mighty-journey-53060.herokuapp.com/)
+* [English Version](README_EN.md)
 
 ## Configuração
 1. Instale o [git](https://git-scm.com/downloads)
