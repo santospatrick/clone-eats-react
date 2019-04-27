@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "title": "Divino sabor",
+        "category": "Restaurant Food",
+        "img": "picture-1.jpeg",
+        "options": [
+            {
+                "id": 1,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 3,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 4,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Vilarejo Grill",
+        "category": "Restaurant Food",
+        "img": "picture-2.jpeg",
+        "options": [
+            {
+                "id": 5,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 6,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 7,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 8,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Burger King",
+        "category": "Burgers",
+        "img": "picture-3.jpeg",
+        "options": [
+            {
+                "id": 9,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 10,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 11,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 12,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Açaí & Cia",
+        "category": "Restaurant Food",
+        "img": "picture-4.jpeg",
+        "options": [
+            {
+                "id": 13,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 14,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 15,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 16,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Panelinhas de Minas",
+        "category": "Restaurant Food",
+        "img": "picture-5.jpeg",
+        "options": [
+            {
+                "id": 17,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 18,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 19,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 20,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Comendadores Grill",
+        "category": "Restaurant Food",
+        "img": "picture-6.jpeg",
+        "options": [
+            {
+                "id": 21,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 22,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 23,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 24,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Abaré Pizzarias",
+        "category": "Restaurant Food",
+        "img": "picture-7.jpeg",
+        "options": [
+            {
+                "id": 25,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 26,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 27,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 28,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Master Pizza",
+        "category": "Restaurant Food",
+        "img": "picture-8.jpeg",
+        "options": [
+            {
+                "id": 29,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 30,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 31,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 32,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Lupertine",
+        "category": "Restaurant Food",
+        "img": "picture-9.jpeg",
+        "options": [
+            {
+                "id": 33,
+                "name": "Opção 1",
+                "price": 10,
+                "img": "option-1.jpeg"
+            },
+            {
+                "id": 34,
+                "name": "Opção 2",
+                "price": 30,
+                "img": "option-2.jpeg"
+            },
+            {
+                "id": 35,
+                "name": "Opção 3",
+                "price": 22,
+                "img": "option-3.jpeg"
+            },
+            {
+                "id": 36,
+                "name": "Opção 4",
+                "price": 15,
+                "img": "option-4.jpeg"
+            }
+        ]
+    }
+]
